@@ -18,6 +18,7 @@ After analyzing the data and determining what is essential, it's crucial to unde
 ### data analysis and visualization
 ![Image_Alt](https://github.com/bonie99/dsc-phase-1-project-v3/blob/05c12491c4ec4c701639530586163bd8c8954b51/viz1.png)
 ![Image_Alt](https://github.com/bonie99/dsc-phase-1-project-v3/blob/26efb77744106622961ff4bea3a6a72e78c1f93e/viz2.png)
+![Image_Alt](https://github.com/bonie99/dsc-phase-1-project-v3/blob/a6e2c01366f821d500de38947155cc703713a42f/viz3.png)
 ### conclusion:
 Based on the comprehensive analysis and exploratory data analysis (EDA) conducted, the following conclusions can be drawn:
 
