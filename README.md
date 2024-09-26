@@ -17,6 +17,7 @@ My project have information that has previously been collected by varius data sc
 After analyzing the data and determining what is essential, it's crucial to understand why certain information is necessary for achieving the "Project goal fulfillment.The significance of this step is to enter the market with a clear, comprehensive, and relevant understanding.varius  columns that were found irrelevant were deleted.
 ### data analysis and visualization
 ![Image_Alt](https://github.com/bonie99/dsc-phase-1-project-v3/blob/05c12491c4ec4c701639530586163bd8c8954b51/viz1.png)
+![Image_Alt](https://github.com/bonie99/dsc-phase-1-project-v3/blob/26efb77744106622961ff4bea3a6a72e78c1f93e/viz2.png)
 ### conclusion:
 Based on the comprehensive analysis and exploratory data analysis (EDA) conducted, the following conclusions can be drawn:
 
