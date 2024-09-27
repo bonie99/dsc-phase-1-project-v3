@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/boniface.ngechu/viz/interactivedashbord_17274177182900/Dashboard1?publish=yes
+
 ## Business Understanding
 PROBLEM STATEMENT; The objective is to select the aircraft with the lowest risk profile for the company’s new aviation venture, while ensuring acquisition at a competitive and cost-effective price. This will support a smooth and successful market entry.
 
